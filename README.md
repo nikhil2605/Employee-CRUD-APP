@@ -1,7 +1,7 @@
 
 https://github.com/nikhil2605/springbootdemo.git
 
-Visit Above link for AngularJS Project
+Visit Above link for SpringBoot Project
 
 # MySecondProject
 
